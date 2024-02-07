@@ -18,5 +18,5 @@ Soft Skills
 
 2.Developing a systematic approach to creating report-building plans.
 
-![Dashboard](https://github.com/Swarnam662002/Bike-sale-insights---Excel-project/assets/153653737/80e7b083-1e0a-4b55-9806-a32172e8639b)
+![Project](https://github.com/Swarnam662002/Bike-sale-insights---Excel-project/assets/153653737/5d8838e5-4a96-443d-ba68-40d120d76b2e)
 
